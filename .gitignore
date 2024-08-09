@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/TooGubKhao/Web.config
+/TooGubKhao/Web.Debug.config
+/TooGubKhao/Web.Release.config
